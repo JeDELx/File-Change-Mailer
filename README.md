@@ -1,2 +1,1 @@
-# FileChangeMailer
-File Change Mailer
+Excel File Notifier is a Python application that tracks changes to a given Excel file and automatically sends an email when a change is made to the file. This tool is especially useful for keeping track of file updates and notifying the relevant people of these updates.
