@@ -1,1 +1,1 @@
-Gereksinimler: Python 3.x, openpyxl kütüphanesi, watchdog kütüphanesi
+Requirements: Python 3.x, openpyxl library, watchdog library
